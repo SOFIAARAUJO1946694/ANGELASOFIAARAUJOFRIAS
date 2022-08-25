@@ -1,0 +1,12 @@
+Proceso DIVISION
+    Escribir "Hola, esto funciona para realziar divisiones"
+    Escribir "Ingresa tu primer numero a dividir, recuerda utilizar enter despues de introducir tu numero"
+    Leer NUMA
+    Escribir "Ingresa tu segundo numero a dividir, recuerda utilizar enter despues de introducir tu numero"
+    Leer NUMB
+    NUMC←NUMA / NUMB
+    Escribir NUMC , " Es la respuesta"
+FinProceso
+
+
+ANGELA SOFIA ARAUJO FRIAS 1946694
